@@ -14,4 +14,3 @@ def update_release_notes(request):
         return request_json['message']
     else:
         return f'demo test'
-
